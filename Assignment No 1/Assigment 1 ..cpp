@@ -1,3 +1,10 @@
+        // Name : ZAKIRULLAH
+        // Regisration No : 709
+        // Section : A (electrical power)
+
+
+
+
 #include <iostream>
 using namespace std;
 
